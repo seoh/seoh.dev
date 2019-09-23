@@ -34,11 +34,12 @@
     }
 
     code {
-      font-size: 1.2em;
-      color: var(--color-theme-primary);
-      font-weight: 600;
-      margin-left: 0.01ch;
-      margin-right: 0.01ch;
+      color: var(--color-dark);
+      background: var(--color-highlight);
+      font-weight: 100;
+      padding-left: 0.1ch;
+      padding-right: 0.1ch;
+      font-family: 'Courier New', Courier, monospace;
     }
 
     pre > code {
