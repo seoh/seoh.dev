@@ -29,5 +29,8 @@
     }
   </script>
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" async defer></script>
+  {% if site.useGlobalScript %}
+    {% include "partials/global/user-scripts.njk" %}
+  {% endif %}
 </body>
 </html>

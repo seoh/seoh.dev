@@ -8,5 +8,6 @@
   "authorName": "Seoh Char",
   "enableThirdPartyComments": false,
   "maxPostsPerPage": 5,
-  "faviconPath": "/images/favicon.png"
+  "faviconPath": "/images/favicon.png",
+  "useGlobalScript": true
 }
