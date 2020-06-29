@@ -17,3 +17,6 @@ src/scss/_tokens.scss
 src/_includes/assets/*
 
 .vscode
+
+# Local Netlify folder
+.netlify
